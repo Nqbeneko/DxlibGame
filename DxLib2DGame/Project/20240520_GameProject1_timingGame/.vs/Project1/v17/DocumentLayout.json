@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DX\u30E9\u30A4\u30D6\u30E9\u30EA\\DxLib2DGame\\Project\\20240520_GameProject1_timingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D03901-7A0B-4F48-8B55-55E89BE47AB2}|Project1.vcxproj|F:\\DX\u30E9\u30A4\u30D6\u30E9\u30EA\\DxLib2DGame\\Project\\20240520_GameProject1_timingGame\\20240513_timigGame_\u56DE\u7B54.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26D03901-7A0B-4F48-8B55-55E89BE47AB2}|Project1.vcxproj|solutionrelative:20240513_timigGame_\u56DE\u7B54.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D03901-7A0B-4F48-8B55-55E89BE47AB2}|Project1.vcxproj|F:\\DX\u30E9\u30A4\u30D6\u30E9\u30EA\\DxLib2DGame\\Project\\20240520_GameProject1_timingGame\\StartDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26D03901-7A0B-4F48-8B55-55E89BE47AB2}|Project1.vcxproj|solutionrelative:StartDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartDisplay.cpp",
+              "DocumentMoniker": "F:\\DX\u30E9\u30A4\u30D6\u30E9\u30EA\\DxLib2DGame\\Project\\20240520_GameProject1_timingGame\\StartDisplay.cpp",
+              "RelativeDocumentMoniker": "StartDisplay.cpp",
+              "ToolTip": "F:\\DX\u30E9\u30A4\u30D6\u30E9\u30EA\\DxLib2DGame\\Project\\20240520_GameProject1_timingGame\\StartDisplay.cpp",
+              "RelativeToolTip": "StartDisplay.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAFIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T09:34:34.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240513_timigGame_\u56DE\u7B54.cpp",
+              "DocumentMoniker": "F:\\DX\u30E9\u30A4\u30D6\u30E9\u30EA\\DxLib2DGame\\Project\\20240520_GameProject1_timingGame\\20240513_timigGame_\u56DE\u7B54.cpp",
+              "RelativeDocumentMoniker": "20240513_timigGame_\u56DE\u7B54.cpp",
+              "ToolTip": "F:\\DX\u30E9\u30A4\u30D6\u30E9\u30EA\\DxLib2DGame\\Project\\20240520_GameProject1_timingGame\\20240513_timigGame_\u56DE\u7B54.cpp",
+              "RelativeToolTip": "20240513_timigGame_\u56DE\u7B54.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T10:47:16.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
